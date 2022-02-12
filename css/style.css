@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: black;
+}
+header{
+  background-color: #48c5ce;
+  text-align: center;
+  color: white;
+  padding: 10px;
+}
+.title{
+  font-size: 26px;
+}
+.container{
+  max-width: 1000px;
+  margin: auto;
+}
