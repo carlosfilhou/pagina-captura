@@ -20,7 +20,38 @@ header{
   margin: auto;
 }
 section{
-  color: white;
+  padding: 20px;
+  background-image: url('../images/palestra.jpg');
 }
-
-s
+.form-container{
+  max-width: 230px;
+  background-color: #FFFFFFBB;
+  padding: 20px;
+  //float: right;
+}
+h2{
+  font-size: 16px;
+}
+.mb{
+  margin-bottom: 15px;
+}
+input, select{
+  width: 100%;
+  box-sizing: border-box;
+  padding: 3px;
+  border: none;
+  margin-bottom: 10px;
+}
+input[type="submit"]{
+  color: white;
+  background-color: #48c5ce;
+  font-weight: bold;
+}
+select{
+  appearance: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  background-image: url('../images/arrow.jpg');
+  background-repeat: no-repeat;
+  background-position: calc(100% - 10px) center;
+}
