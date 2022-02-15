@@ -7,7 +7,7 @@ body{
   background-color: black;
 }
 header{
-  background-color: #48c5ce;
+  background-color: #48cead;
   text-align: center;
   color: white;
   padding: 10px;
@@ -43,7 +43,7 @@ input, select{
 }
 input[type="submit"]{
   color: white;
-  background-color: #48c5ce;
+  background-color: #48cead;
   font-weight: bold;
 }
 select{
@@ -53,4 +53,25 @@ select{
   background-image: url('../images/arrow.jpg');
   background-repeat: no-repeat;
   background-position: calc(100% - 10px) center;
+}
+footer{
+  background-color: #202121;
+  padding: 40px;
+  text-align: center;
+}
+.picture{
+  width: 160px;
+}
+.description{
+  text-align: left;
+  display: inline-block;
+  color: white;
+  max-width: 40%;
+  margin-left: 40px;
+}
+.description p, .description h3{
+  margin-bottom: 20px;
+}
+.description h3{
+  font-size: 24px;
 }
