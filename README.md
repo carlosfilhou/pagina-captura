@@ -14,7 +14,6 @@ Acesse: <a href="https://pgdecaptura.netlify.app">pgdecaptura.netlify.app</a>
 
 <img src="github/webfrontvideo1.gif"><br><br>
 <img src="github/webfrontvideo2.gif"><br><br>
-<img src="github/webfrontvideo3.gif">
 <br/><br>
 
 ## 🚀 Tecnologias utilizadas <br/>
@@ -22,19 +21,21 @@ Acesse: <a href="https://pgdecaptura.netlify.app">pgdecaptura.netlify.app</a>
 
 - HTML <br/>
 - CSS <br/>
+- EMAIL MARKETING<br/>
 <br/>
 
 ## 👨‍💻 Skills Praticadas
 
   - ✔️ CSS - Flexbox and Grid 
   - ✔️ Layout Responsive
+  - ✔️ UX design, UI / (User Experience, User Interface)
 <br><br><br>
 
  # 👷 Como rodar
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/carlosfilhou/sos-brigadeiro
+git clone https://github.com/carlosfilhou/pagina-captura
 
 # Entrar numa IDE de sua preferência 
 
