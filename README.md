@@ -7,12 +7,12 @@
 
 Uma <strong>PÁGINA DE CAPTURA</strong> serve para uma pessoa interessada em algum assunto, 
   poder se inscrever para receber informações sobre aquilo. <br>
-Acesse: <a href="">www.sosbrigadeiro.com.br</a>
+Acesse: <a href="https://pgdecaptura.netlify.app">pgdecaptura.netlify.app</a>
 <br>
 
 ## 🖼 Screenshot das telas do site <br/>
 
-<img src="github/webfrontvideo.gif"><br><br>
+<img src="github/webfrontvideo1.gif"><br><br>
 <img src="github/webfrontvideo2.gif"><br><br>
 <img src="github/webfrontvideo3.gif">
 <br/><br>
