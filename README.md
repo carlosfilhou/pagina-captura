@@ -1,12 +1,13 @@
 <h3 align="center">
-    <img width="200px" src="imgsos/logosos.png">
+    <img width="200px" src="images/icon.png">
     <br><br>
 </h3>
 
-## 🔖 Informaçoes sobre o Site de Captura <br/>
+## 🔖 Informações sobre o Site de Captura <br/>
 
-A <strong>SOS</strong> é uma empresa de produção de doces. <br>
-Acesse: <a href="https://sosbrigadeiro.netlify.app/">www.sosbrigadeiro.com.br</a>
+Uma <strong>PÁGINA DE CAPTURA</strong> serve para uma pessoa interessada em algum assunto, 
+  poder se inscrever para receber informações sobre aquilo. <br>
+Acesse: <a href="">www.sosbrigadeiro.com.br</a>
 <br>
 
 ## 🖼 Screenshot das telas do site <br/>
